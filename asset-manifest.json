@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/addePe/static/css/main.d885777a.css",
-    "main.js": "/addePe/static/js/main.3f4bed50.js",
+    "main.js": "/addePe/static/js/main.fe6b5187.js",
     "static/media/logo24.png": "/addePe/static/media/logo24.75ccf08d9b8d9428051a.png",
     "static/media/logo3.jpeg.png": "/addePe/static/media/logo3.jpeg.914333181f425049f975.png",
     "index.html": "/addePe/index.html",
     "main.d885777a.css.map": "/addePe/static/css/main.d885777a.css.map",
-    "main.3f4bed50.js.map": "/addePe/static/js/main.3f4bed50.js.map"
+    "main.fe6b5187.js.map": "/addePe/static/js/main.fe6b5187.js.map"
   },
   "entrypoints": [
     "static/css/main.d885777a.css",
-    "static/js/main.3f4bed50.js"
+    "static/js/main.fe6b5187.js"
   ]
 }
